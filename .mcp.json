@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hap_personal_mcp": {
+      "type": "http",
+      "url": "https://api.mingdao.com/mcp",
+      "headers": {
+        "Authorization": "Bearer proxy-injected"
+      }
+    }
+  }
+}
